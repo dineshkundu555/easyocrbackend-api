@@ -1,0 +1,6 @@
+flask
+easyocr
+Pillow
+gunicorn
+requests
+torch==2.0.1
